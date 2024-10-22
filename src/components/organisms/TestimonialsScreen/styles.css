@@ -1,0 +1,21 @@
+li.slick-active {
+  transition: 0.5s;
+}
+
+li.slick-active div {
+  transition: 0.5s;
+}
+
+li.slick-active button {
+  background: #fff;
+  width: 32px;
+  opacity: 1;
+}
+
+.slick-track {
+  align-items: stretch;
+}
+
+.slick-slide > div {
+  height: 100%;
+}

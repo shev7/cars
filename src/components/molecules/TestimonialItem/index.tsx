@@ -1,0 +1,1 @@
+export { TestimonialItem } from "./TestimonialItem";

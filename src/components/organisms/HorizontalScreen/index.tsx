@@ -1,0 +1,1 @@
+export { HorizontalSceen } from "./HorizontalScreen";
